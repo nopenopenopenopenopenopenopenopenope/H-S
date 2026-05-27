@@ -1,0 +1,330 @@
+{
+  "levels": [
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [{
+        "x": 2,
+          "y": 3,
+          "id": 1
+      }],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,6,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,5,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,6,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 8
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,6,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    },
+    {
+      "levelData": [
+        1,1,1,1,1,1,
+        1,0,0,0,4,1,
+        1,2,1,1,1,1,
+        1,0,1,0,6,1,
+        1,0,0,0,6,1,
+        1,1,1,1,1,1
+      ],
+      "cratesStartPos": [
+        {
+          "x": 2,
+          "y": 1,
+          "id": 1
+        }
+      ],
+      "playerStartPos": {
+        "x": 1,
+        "y": 1
+      },
+      "enemiesStartPos": [],
+      "levelSize": 6
+    }
+  ]
+}
