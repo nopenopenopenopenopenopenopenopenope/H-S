@@ -8,11 +8,15 @@
       "cratesStartPos": [],
 
       "playerStartPos": {
-        "x": 0,
-        "y": 0
+        "x": 1,
+        "y": 1
 },
 
-      "enemiesStartPos": [],
+      "enemiesStartPos": [{
+        "x": 7,
+        "y": 7,
+        "id":1,
+}],
 
       "levelSize": 12
     }
