@@ -12,11 +12,11 @@
         "y": 1
 },
 
-      "enemiesStartPos": [{
-        "x": 7,
-        "y": 7,
-        "id":1,
-}],
+      "enemiesStartPos": [ {
+                "x": 7,
+                "y": 7,
+                "id": 1
+        }],
 
       "levelSize": 12
     }
