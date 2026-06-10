@@ -538,6 +538,6 @@
 ],
 "forestAmmount":2,
 "winterAmmount":2,
-"isFinished":true,
+"isFinished":false,
 "EndingText":["This is a Test","Wake UP"]
 }
