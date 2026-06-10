@@ -537,5 +537,7 @@
   }
 ],
 "forestAmmount":2,
-"winterAmmount":2
+"winterAmmount":2,
+"isFinished":true,
+"EndingText":["This is a Test","Wake UP"]
 }
