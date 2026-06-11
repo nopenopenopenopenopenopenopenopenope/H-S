@@ -539,5 +539,16 @@
 "forestAmmount":2,
 "winterAmmount":2,
 "isFinished":false,
-"EndingText":["This is a Test","Wake UP"]
+"EndingText":["This is a Test","Wake UP"],
+  "extras":[
+  {
+    "Title":"Teste",
+    "ImageUrl":"https://i.pinimg.com/564x/45/65/4b/45654b5c13b4b69314bc884f4495b66f.jpg",
+    "SoundUrl":"http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3"
+  },
+  {
+    "Title":"Teste1",
+    "ImageUrl":"https://i.pinimg.com/564x/45/65/4b/45654b5c13b4b69314bc884f4495b66f.jpg"
+  }
+]
 }
