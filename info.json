@@ -601,10 +601,10 @@
     "levelSize": 8
   }
 ],
-"forestAmmount":2,
-"winterAmmount":2,
+"forestAmmount":10,
+"winterAmmount":10,
 "isFinished":false,
-"version":1,
+"version":2,
 "screenLevels":10,
 "EndingText":["You can now access the extras menu","Just click the ghost in the main menu","Do not touch the skull"],
   "extras":[
