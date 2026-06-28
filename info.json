@@ -2107,11 +2107,17 @@
   "version": 2,
   "screenLevels": 10,
   "isFinished": true,
+  "latestVersion":"1.0.0",
   "EndingText": [
-    "You can now access the extras menu",
+    "You can now access the achievements menu",
     "Just click the ghost in the main menu",
     "Do not touch the skull"
   ],
+   "achievementConfig": {
+    "die_in_level": { "levelId": 20 },
+    "perfect_level": { "levelId": 18, "targetMoves": 12 },
+    "skull_hunter": { "levelIds": [9, 19, 23, 25, 27, 29] }
+  },
   "extras": [
     {
       "Title": "Henry",
