@@ -2104,7 +2104,7 @@
   ],
   "forestAmmount": 10,
   "winterAmmount": 10,
-  "version": 2,
+  "version": 3,
   "screenLevels": 10,
   "isFinished": true,
   "latestVersion":"1.0.0",
