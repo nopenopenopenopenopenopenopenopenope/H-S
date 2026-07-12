@@ -1846,7 +1846,7 @@
   "version": 10,
   "screenLevels": 10,
   "isFinished": true,
-  "latestVersion":"1.0.4",
+  "latestVersion":"1.0.5",
   "EndingText": [
     "You can now access the achievements menu",
     "Just click the ghost in the main menu",
@@ -1856,6 +1856,15 @@
     "die_in_level": { "levelId": 20 },
     "perfect_level": { "levelId": 18, "targetMoves": 12 },
     "skull_hunter": { "levelIds": [9, 19, 23, 25, 27, 29] }
+  },
+  "hints" : {
+  "1": "Push crates onto buttons to open doors",
+  "3": "Doors that start open will close once a crate is pushed onto a button",
+  "4": "Spikes only hurt the player, and only when they are active",
+  "8": "Skulls will always try to get closer to the player",
+  "10": "Freezing tiles will stop the movement of anyone that steps on it for one move",
+  "12": "Don't let the skulls touch you",
+  "22": "Lava can hurt the player AND destroy crates"
   },
   "extras": [
     {
