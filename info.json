@@ -1843,10 +1843,10 @@
 ],
   "forestAmmount": 10,
   "winterAmmount": 10,
-  "version": 10,
+  "version": 11,
   "screenLevels": 10,
   "isFinished": true,
-  "latestVersion":"1.0.5",
+  "latestVersion":"1.0.6",
   "EndingText": [
     "You can now access the achievements menu",
     "Just click the ghost in the main menu",
